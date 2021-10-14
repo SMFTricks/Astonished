@@ -300,18 +300,18 @@ function template_body_above()
 
 				if(!empty($settings['twitter_url']))
 					echo '
-					<li><a class="social_icon twitter" href="', $settings['twitter_url'] , '" target="_blank"></a></li>';
+					<li><a class="social_icon twitter" href="', $settings['twitter_url'] , '" target="_blank" rel="noopener"></a></li>';
 			
 				if(!empty($settings['facebook_url']))
 					echo '
-					<li><a class="social_icon facebook" href="', $settings['facebook_url'] , '" target="_blank"></a></li>';
+					<li><a class="social_icon facebook" href="', $settings['facebook_url'] , '" target="_blank" rel="noopener"></a></li>';
 								
 				if(!empty($settings['youtube_url']))
 					echo '
-						<li><a class="social_icon youtube" href="', $settings['youtube_url'] , '" target="_blank"></a></li>';
+						<li><a class="social_icon youtube" href="', $settings['youtube_url'] , '" target="_blank" rel="noopener"></a></li>';
 			
 				echo '
-						<li><a class="social_icon rss" href="', empty($settings['rss_url']) ? '' . $scripturl . '?action=.xml;type=rss' : '' . $settings['rss_url'] . '', '" target="_blank"></a></li>';
+						<li><a class="social_icon rss" href="', empty($settings['rss_url']) ? '' . $scripturl . '?action=.xml;type=rss' : '' . $settings['rss_url'] . '', '" target="_blank" rel="noopener"></a></li>';
 				
 				echo '
 							</ul>	
