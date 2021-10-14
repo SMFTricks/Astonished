@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="en" />
+    <meta name="google-site-verification" content="r_k4DA2lpdOmK0gssGNcvApyx3hbwOP-z2_iDKRZVL4" />
+    <script type="text/javascript" src="/assets/d6bf637b/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/d6bf637b/jquery.yiiactiveform.js"></script>
+<title>HtmlDrive - Error</title>
+    <link href="/rss" title="RSS 2.0" type="application/rss+xml" rel="alternate" />
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
+    <link href="/css/reset.css" type="text/css" rel="stylesheet" />
+    <link href="/css/globle.css" type="text/css" rel="stylesheet" />
+    <link href="/css/colortip-1.0-jquery.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/script/colortip-1.0-jquery.js"></script>
+    <script type="text/javascript" src="/script/tip.js"></script>
+    <script type="text/javascript">
+    $(function(){
+        $("#contact_btn").children("a").hover(
+            function(){
+                $(this).animate({ 
+                    left: "10px",
+                    width: "100px"
+                  }, 500
+                );
+            },
+            function(){
+                $(this).animate({ 
+                    left: "70px",
+                    width: "40px"
+                  }, 500
+                );
+            }
+        );
+    });
+    </script>
+</head>
+<body>
+    <div id="wrapper">
+        <div class="clear"></div>
+        <div id="hd_info">
+            <!--span style="color:#FCD705;">Great! Htmldrive.net google pr(pagerank) has been updated to 5.</span-->&nbsp;&nbsp;&nbsp;
+                <!--a href="/rss"><img title="Rss" style="position: relative; top: 2px;" alt="Rss" src="/images/icon_rss.gif" /></a-->       
+            &nbsp;&nbsp;&nbsp;<a href="#" id="submit_widget">Submit your widget</a>
+        </div>
+        <div id="header">  
+            <div id="logo">
+            <h1><a title="HtmlDrive" href="/"><img alt="HtmlDrive" src="/images/logo.jpg" /></a></h1>
+            <p>Free Dhtml scripts, Jquery plugins ,Javascript, CSS, CSS3, Html5 Library</p>
+            </div>
+            <div id="header_ad">
+                <div id="bsap_1251049" class="bsarocks bsap_afb0a02cac92c928ab6e153173eabf4e"></div>
+            </div>
+            <div id="contact_btn">
+                <a href="/rss" id="rss_btn"><img title="Rss" alt="Rss" src="/images/rss_big.png" />Subscribe</a><br/>
+                <a href="http://twitter.com/#!/htmldrive" target="_blank" id="twitter_btn"><img title="Twitter" alt="Twitter" src="/images/twitter.png" />Follow Us</a>
+            </div>
+            <div class="clear"></div>    
+        </div>
+        <div id="nav_wrapper">
+            <div id="nav_block">
+                <ul id="yw3">
+<li class="first"><a href="/">Home</a></li>
+<li><a href="/item/picked">60 carefully picked items from our site</a></li>
+<li><a id="ourselves" title="Free technical support" href="/item/ourselves">Created By Ourselves</a></li>
+<li><a href="/book">Recommend Books</a></li>
+</ul>           
+            </div>        
+            <div id="nav_block_right">
+                <form id="search_box" action="/search" method="get"><input type="text" value="" name="q" id="q" /><input id="s_b" src="/images/search.png" type="image" name="yt1" value="submit" /></form>            </div>
+            <div class="clear"></div>
+        </div>
+        <div id="main">
+                        
+            <div class="breadcrumbs">
+<a href="/">Home</a><span>Error</span></div>
+<h2>Error 404</h2>
+
+<div class="error">
+Unable to resolve the request &quot;items/demo_show/search-dark.png&quot;.</div>            <div id="side_nav">
+                <div class="main_category" id="yw0">
+<div class="header">
+<div class="portlet-title">Category</div>
+</div>
+<div class="body">
+<ul><li><h2><a href="/categorys/show/1/Menu-Navigation">Menu & Navigation <span class="small">(215)</span></a></h2></li><li><h2><a href="/categorys/show/2/Slideshow-Scroller">Slideshow & Scroller <span class="small">(204)</span></a></h2></li><li><h2><a href="/categorys/show/4/Image-Effects">Image Effects <span class="small">(114)</span></a></h2></li><li><h2><a href="/categorys/show/5/HTML5">HTML5 <span class="small">(9)</span></a></h2></li><li><h2><a href="/categorys/show/6/Form">Form <span class="small">(110)</span></a></h2></li><li><h2><a href="/categorys/show/7/Tooltips">Tooltips <span class="small">(45)</span></a></h2></li><li><h2><a href="/categorys/show/8/Table">Table <span class="small">(27)</span></a></h2></li><li><h2><a href="/categorys/show/9/Rating-Star-Rating">Rating & Star Rating <span class="small">(21)</span></a></h2></li><li><h2><a href="/categorys/show/10/Tabs">Tabs <span class="small">(44)</span></a></h2></li><li><h2><a href="/categorys/show/11/Accordion">Accordion <span class="small">(30)</span></a></h2></li><li><h2><a href="/categorys/show/12/Lightbox-Dialog-Overlay">Lightbox & Dialog & Overlay <span class="small">(49)</span></a></h2></li><li><h2><a href="/categorys/show/13/Text-Link-Effects">Text & Link Effects <span class="small">(49)</span></a></h2></li><li><h2><a href="/categorys/show/14/Layout-Interface">Layout & Interface <span class="small">(34)</span></a></h2></li><li><h2><a href="/categorys/show/15/Calendar-Date-Time-picker">Calendar & Date & Time picker <span class="small">(27)</span></a></h2></li><li><h2><a href="/categorys/show/16/Color-Picker">Color Picker <span class="small">(11)</span></a></h2></li><li><h2><a href="/categorys/show/17/Graph-Chart">Graph & Chart <span class="small">(10)</span></a></h2></li><li><h2><a href="/categorys/show/18/Buttons-Icons">Buttons & Icons <span class="small">(15)</span></a></h2></li></ul></div>
+</div>                <div class="l_s"></div>
+                <div id="bsap_1264693" class="bsarocks bsap_afb0a02cac92c928ab6e153173eabf4e"></div>
+                <div class="clear"></div>
+                <p class="r_l_3"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_1"></p>
+                <div class="w_l">
+                <h4>Newsletter</h4>
+                <div class="body">
+                    <div class="form">
+
+<form id="newsletter-form" action="/newsletter/create" method="post">
+	<p class="note"><strong>Best Alert</strong><br/>
+Practical and Stylish for you,And never miss again!
+<br/></p>
+	<div class="row">
+		<label for="Newsletter_email" class="required">Email <span class="required">*</span></label>		<input size="25" maxlength="255" name="Newsletter[email]" id="Newsletter_email" type="text" />		<div id="Newsletter_email_em_" class="errorMessage" style="display:none"></div>	</div>
+
+		<input type="submit" name="yt0" value="Subscribe" />
+</form>
+</div><!-- form -->                </div>
+                </div>
+                <p class="r_l_1"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_3"></p>
+                <div class="l_s"></div>
+                <p class="r_l_3"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_1"></p>
+                <div class="w_l">
+                <h4>Recent Comments</h4>
+                <div class="body">
+                    <script type="text/javascript" src="http://disqus.com/forums/htmldrive/recent_comments_widget.js?num_items=10&hide_avatars=0&avatar_size=24&excerpt_length=100"></script>
+                </div>
+                </div>
+                <p class="r_l_1"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_3"></p>
+            </div>
+            <div id="banner_right">
+            
+            </div>
+            <div id="side_right">
+                <div>
+                <div id="bsap_1253573" class="bsarocks bsap_afb0a02cac92c928ab6e153173eabf4e"></div>
+                <div class="clear"></div>
+                </div>
+                <div class="portlet" id="yw1">
+<div class="portlet-decoration">
+<div class="portlet-title"></div>
+</div>
+<div class="portlet-content">
+<div class="l_s"></div>
+                <p class="r_l_3"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_1"></p>
+                <div class="w_l">
+                <h4>Recommend Items</h4>
+                <div class="body">
+                    <ol class="more_items">
+		<li>
+                            <div class="icon">
+                            <a href="/items/show/50/The-Jquery-Tool-Tip">
+                            <img width="60" height="45" alt="The Jquery Tool Tip" src="/media/2010/6/23/1277278932_thumb.jpg">
+                            </a>
+                            </div>
+                            <div class="title">
+                            <a href="/items/show/50/The-Jquery-Tool-Tip">The Jquery Tool Tip</a>
+                            </div>
+                            <div class="clear"></div>
+                        </li>
+		<li>
+                            <div class="icon">
+                            <a href="/items/show/27/Jquery-simple-rating-system-with-small-stars">
+                            <img width="60" height="45" alt="Jquery simple rating system with  small stars" src="/media/2010/6/4/1275641081_thumb.jpg">
+                            </a>
+                            </div>
+                            <div class="title">
+                            <a href="/items/show/27/Jquery-simple-rating-system-with-small-stars">Jquery simple rating system with  small stars</a>
+                            </div>
+                            <div class="clear"></div>
+                        </li>
+		<li>
+                            <div class="icon">
+                            <a href="/items/show/23/Pure-CSS3-Dynamic-Buttons">
+                            <img width="60" height="45" alt="Pure CSS3 Dynamic Buttons" src="/media/2010/6/3/1275550718_thumb.jpg">
+                            </a>
+                            </div>
+                            <div class="title">
+                            <a href="/items/show/23/Pure-CSS3-Dynamic-Buttons">Pure CSS3 Dynamic Buttons</a>
+                            </div>
+                            <div class="clear"></div>
+                        </li>
+		<li>
+                            <div class="icon">
+                            <a href="/items/show/18/jQuery-Multicolor-animation-drop-down-navigation-menu">
+                            <img width="60" height="45" alt="jQuery Multicolor animation drop down navigation menu" src="/media/2010/6/1/1275367416_thumb.jpg">
+                            </a>
+                            </div>
+                            <div class="title">
+                            <a href="/items/show/18/jQuery-Multicolor-animation-drop-down-navigation-menu">jQuery Multicolor animation drop down navigation menu</a>
+                            </div>
+                            <div class="clear"></div>
+                        </li>
+	                                                
+</ol>
+                </div>
+                </div>
+                <p class="r_l_1"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_3"></p>
+</div>
+</div>                <div id="bsap_1264691" class="bsarocks bsap_afb0a02cac92c928ab6e153173eabf4e"></div>
+                <div class="clear"></div>
+                
+                <div class="portlet" id="yw2">
+<div class="portlet-decoration">
+<div class="portlet-title"></div>
+</div>
+<div class="portlet-content">
+<div class="l_s"></div>
+                <p class="r_l_3"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_1"></p>
+                <div class="w_l">
+                <h4>Tags</h4>
+                <div class="body">
+                    <p class="tag_box">
+
+	<span class="tag" style="font-size:9pt"><a href="/tags/show/accordion">accordion</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/accordion+menu">accordion menu</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/animation+navigation">animation navigation</a></span>
+<span class="tag" style="font-size:11pt"><a href="/tags/show/animation+navigation+menu">animation navigation menu</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/buttons">buttons</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/carousel">carousel</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/checkbox+inputs">checkbox inputs</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/css3">css3</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/css3+menu">css3 menu</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/css3+navigation">css3 navigation</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/date+picker">date picker</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/dialog">dialog</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/drag+drop">drag drop</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/drop+down+menu">drop down menu</a></span>
+<span class="tag" style="font-size:15pt"><a href="/tags/show/drop+down+navigation+menu">drop down navigation menu</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/elastic+navigation">elastic navigation</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/form">form</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/gallery">gallery</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/glide+navigation">glide navigation</a></span>
+<span class="tag" style="font-size:19pt"><a href="/tags/show/horizontal+navigation+menu">horizontal navigation menu</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/hover+effect">hover effect</a></span>
+<span class="tag" style="font-size:13pt"><a href="/tags/show/image+gallery">image gallery</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/image+hover">image hover</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/image+lightbox">image lightbox</a></span>
+<span class="tag" style="font-size:14pt"><a href="/tags/show/image+scroller">image scroller</a></span>
+<span class="tag" style="font-size:22pt"><a href="/tags/show/image+slideshow">image slideshow</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/multi-level+navigation+menus">multi-level navigation menus</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/rating">rating</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/select+dependent">select dependent</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/select+list">select list</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/slide+image">slide image</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/slider+menu">slider menu</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/stylish+form">stylish form</a></span>
+<span class="tag" style="font-size:9pt"><a href="/tags/show/table">table</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/tabs">tabs</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/text+effect">text effect</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/text+scroller">text scroller</a></span>
+<span class="tag" style="font-size:10pt"><a href="/tags/show/tooltips">tooltips</a></span>
+<span class="tag" style="font-size:8pt"><a href="/tags/show/tree+menu">tree menu</a></span>
+<span class="tag" style="font-size:13pt"><a href="/tags/show/vertical+navigation+menu">vertical navigation menu</a></span>
+                    </p>
+                </div>
+                </div>
+                <p class="r_l_1"></p>
+                <p class="r_l_2"></p>
+                <p class="r_l_3"></p></div>
+</div>                <div style="padding-bottom:5px">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2010026746854566";
+/* 250x250, 创建于 11-1-7 */
+google_ad_slot = "8161284396";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+            </div>
+            
+        </div>
+                <div id="footer_bottom">
+            <a href="/site/contact">Contact</a> | <a href="/site/ads">Advertising Information</a> | <a href="/site/terms">Terms of use</a> | &copy; 2010-2011&nbsp;htmldrive.net
+        </div>
+        <link href="/css/form.css" type="text/css" rel="stylesheet" />
+<div id="submit_widget_box">
+    <div class="arrow"></div>
+<div class="form">
+    <form id="submit-widget-form" action="/item/submit" method="post">
+    <p class="note">Fields with <span class="required">*</span> are required.</p>
+
+<div id="submit-widget-form_es_" class="errorSummary" style="display:none"><p>Please fix the following input errors:</p>
+<ul><li>dummy</li></ul></div>
+    <div class="row">
+        <label for="SubmitForm_name" class="required">Widget Name <span class="required">*</span></label><input size="30" maxlength="255" name="SubmitForm[name]" id="SubmitForm_name" type="text" /><div id="SubmitForm_name_em_" class="errorMessage" style="display:none"></div>    </div>
+        <div class="row">
+        <label for="SubmitForm_email" class="required">Contact Email <span class="required">*</span></label><input size="30" maxlength="255" name="SubmitForm[email]" id="SubmitForm_email" type="text" /><div id="SubmitForm_email_em_" class="errorMessage" style="display:none"></div>    </div>
+    <div class="row">
+        <label for="SubmitForm_url" class="required">Widget Url <span class="required">*</span></label><input size="30" maxlength="255" name="SubmitForm[url]" id="SubmitForm_url" type="text" /><div id="SubmitForm_url_em_" class="errorMessage" style="display:none"></div>    </div>
+    <div class="row">
+        <label for="SubmitForm_description">Widget Description</label><textarea rows="4" cols="25" name="SubmitForm[description]" id="SubmitForm_description"></textarea><div id="SubmitForm_description_em_" class="errorMessage" style="display:none"></div>    </div>
+    	<div class="row">
+		<label for="SubmitForm_verifyCode">Verification Code</label>		<div>
+		<img id="yw4" src="/item/captcha/v/4e850bff457cf" alt="" />		<input name="SubmitForm[verifyCode]" id="SubmitForm_verifyCode" type="text" />                    <div id="SubmitForm_verifyCode_em_" class="errorMessage" style="display:none"></div>		</div>
+		<div class="hint">Please enter the letters as they are shown in the image above.
+		<br/>Letters are not case-sensitive.</div>
+	</div>
+	    <div class="row buttons">
+<input type="submit" name="yt3" value="Submit" id="yt3" /><input id="close_submit_btn" name="yt4" type="button" value=" Close" />    </div>
+
+</form>
+</div><!-- form -->
+<script type="text/javascript">
+$(function(){
+    $("#submit_widget").toggle(
+        function(){
+            $("#submit_widget_box").fadeIn();
+        },
+        function(){
+            $("#submit_widget_box").fadeOut();
+        }
+    );
+    $("#close_submit_btn").click(function(){
+        $("#submit_widget_box").fadeOut();
+    });
+});
+</script>
+</div>    </div>
+    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16179053-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = '//s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+
+    <script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+$('#newsletter-form').yiiactiveform({'attributes':[{'inputID':'Newsletter_email','errorID':'Newsletter_email_em_','model':'Newsletter','name':'email'}]});
+jQuery('#yw4').after("<a href=\"#\" id=\"yt2\">Get a new code<\/a>");
+jQuery('body').delegate('#yt2','click',function(){jQuery.ajax({'success':function(html){jQuery("#yw4").attr("src",html)},'url':'/item/captcha/refresh/1','cache':false});return false;});
+jQuery('body').delegate('#yt3','click',function(){jQuery.ajax({'success':function(msg){if(msg=="success"){$("#submit-widget-form").html("Thanks your submit.");setTimeout(function(){$("#submit_widget_box").fadeOut();},1000);}},'type':'POST','url':'/item/submit','cache':false,'data':jQuery(this).parents("form").serialize()});return false;});
+$('#submit-widget-form').yiiactiveform({'attributes':[{'inputID':'SubmitForm_name','errorID':'SubmitForm_name_em_','model':'SubmitForm','name':'name'},{'inputID':'SubmitForm_email','errorID':'SubmitForm_email_em_','model':'SubmitForm','name':'email'},{'inputID':'SubmitForm_url','errorID':'SubmitForm_url_em_','model':'SubmitForm','name':'url'},{'inputID':'SubmitForm_description','errorID':'SubmitForm_description_em_','model':'SubmitForm','name':'description'},{'inputID':'SubmitForm_verifyCode','errorID':'SubmitForm_verifyCode_em_','model':'SubmitForm','name':'verifyCode'}],'summaryID':'submit-widget-form_es_'});
+});
+/*]]>*/
+</script>
+</body>
+</html>
